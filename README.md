@@ -15,3 +15,19 @@ Criar um site pessoal usando WordPress
 
 Link para o repositório:
 - [x] https://github.com/RenannLage/Site-Pessoal-WordPress
+
+<hr>
+
+### Atividade 2
+Criar um e-commerce usando WordPress
+
+Link para o site:
+- [x] 
+
+<hr>
+
+### Atividade 3
+Criar um site pessoal usando HTML e CSS
+
+Link para o site:
+- [x] 
