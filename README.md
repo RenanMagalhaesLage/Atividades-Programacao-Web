@@ -3,7 +3,7 @@
 </div>
 
 #### Universidade Federal de Alfenas - UNIFAL
-Atividades realizadas durante a matéria de Progração Web
+Trabalhos realizados na disciplina de Progração Web
 
 #### Professor
 -[Rodrigo Pagliares](https://github.com/pagliares)
