@@ -29,5 +29,5 @@ Link para o site:
 ### Atividade 3
 Criar um site pessoal usando HTML e CSS
 
-Link para o site:
-- [x] 
+Link para o repositório:
+- [x] https://github.com/RenannLage/Site-Pessoal/tree/main
