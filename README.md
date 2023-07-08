@@ -30,4 +30,4 @@ Link para o site:
 Criar um site pessoal usando HTML e CSS
 
 Link para o repositório:
-- [x] https://github.com/RenannLage/Site-Pessoal/tree/main
+- [x] https://github.com/RenannLage/Site-Pessoal
