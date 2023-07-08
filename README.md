@@ -3,7 +3,7 @@
 </div>
 
 #### Universidade Federal de Alfenas - UNIFAL
-Trabalhos realizados na disciplina de Progração Web
+Trabalhos realizados na disciplina de Progração Web.
 
 #### Professor
 -[Rodrigo Pagliares](https://github.com/pagliares)
@@ -11,7 +11,7 @@ Trabalhos realizados na disciplina de Progração Web
 <hr>
 
 ### Atividade 1
-Criar um site pessoal usando WordPress
+Criar um site pessoal usando WordPress.
 
 Link para o repositório:
 - [x] https://github.com/RenannLage/Site-Pessoal-WordPress
@@ -19,7 +19,7 @@ Link para o repositório:
 <hr>
 
 ### Atividade 2
-Criar um e-commerce usando WordPress
+Criar um e-commerce usando WordPress.
 
 Link para o site:
 - [x] http://greenmenu.42web.io
@@ -27,7 +27,7 @@ Link para o site:
 <hr>
 
 ### Atividade 3
-Criar um site pessoal usando HTML e CSS
+Criar um site pessoal usando HTML, CSS e JavaScript.
 
 Link para o repositório:
 - [x] https://github.com/RenannLage/Site-Pessoal
