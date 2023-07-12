@@ -22,7 +22,7 @@ Link para o repositório:
 Criar um e-commerce usando WordPress.
 
 Link para o site:
-- [x] http://greenmenu.42web.io
+- [x] https://greenmenu.42web.io
 
 <hr>
 
