@@ -14,7 +14,7 @@ Trabalhos realizados na disciplina de Progração Web.
 Criar um site pessoal usando WordPress.
 
 Link para o repositório:
-- [x] https://github.com/RenannLage/Site-Pessoal-WordPress
+- [x] https://github.com/RenanMagalhaesLage/Site-Pessoal-WordPress
 
 <hr>
 
@@ -30,4 +30,4 @@ Link para o site:
 Criar um site pessoal usando HTML, CSS e JavaScript.
 
 Link para o repositório:
-- [x] https://github.com/RenannLage/Site-Pessoal
+- [x] https://github.com/RenanMagalhaesLage/Site-Pessoal
